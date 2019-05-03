@@ -1,9 +1,20 @@
 
 # Profile
-
+_______________________________________________
 **박성근 /Park Seong Keun / 朴晟謹**
+<h1 align="center">
+  <a href="https://www.facebook.com/park.seongkeun" title="parkseongkeun ZZang">
+    <img src="img/seongkeun.jpg" width="200px" height="200px" />
+  </a>
+  <br/>
+  Park Seong Keun
+</h1>
 
-<div style="width:200px;margin:0 auto;"><img src="img/seongkeun.jpg" width="200" height="300"></div>
+<p align="center">
+  뽑아줘라
+</p>
+
+
 
 산업경영공학을 전공중인 평범한 대학생입니다.
 
@@ -13,7 +24,7 @@
 - Email : ssxkeun@gmail.com
 - GitHub : github.com/parkseongkeun
 
-# 학력 / Education
+# Education
 _______________________________________________
 ## 상명대학교
 - 대한민국 서울특별시 종로구 소재
@@ -28,7 +39,7 @@ _______________________________________________
 - 2009.03 ~ 2012.02 / 졸업
 
 
-# 보유 기술 / Skills
+# Skills
 _______________________________________________
 이름 | 하 | 중하 | 중 | 중상 | 상
 --- | --- | --- | --- | --- | ---
@@ -37,7 +48,7 @@ Photoshop |O| | | | |
 illustrator |O| | | | |
 
 
-# 프로젝트 / Projects
+# Projects
 _______________________________________________
 ## 강아지 운동 IOT 앱
 - 개인 프로젝트 / 2019.04.03 ~ 2019.04.25
@@ -48,11 +59,11 @@ _______________________________________________
 - 
 
 ## 사랑먹고 잉꼬
-- 팀 프로젝트 / 2019.04.23 ~ 2017.11.24
+- 팀 프로젝트 / 2019.04.23 ~ 2019.05.24
 - <div style="width:400px;margin:0 auto;"><img src="img/inggo.png" width="400" height="300"></div>
 - 
 
-# 수상 경력 / Awards
+# Awards
 _______________________________________________
 ## [SK 브로드밴드](http://www.newstomato.com/ReadNews.aspx?no=390075)
 - 
@@ -64,7 +75,7 @@ _______________________________________________
 - 
 - 
 
-# 어학점수 / Awards
+# Languages
 _______________________________________________
 ## TOEIC
 -
@@ -87,3 +98,7 @@ _______________________________________________
 - MOS Word, MOS Powerpoint, MOS Excel(2016.02)
 
 ##
+
+
+
+<div style="width:200px;margin:0 auto;"><img src="img/seongkeun.jpg" width="200" height="300"></div>
